@@ -1,16 +1,4 @@
-# liquid_swipe_c4
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran Görüntüsü (111)](https://user-images.githubusercontent.com/47148545/144524337-e8115929-8011-409a-b0a0-6f2085fdc1e3.png)
+![Ekran Görüntüsü (112)](https://user-images.githubusercontent.com/47148545/144524349-67c65e6f-88dd-4e4f-9e2f-f5c067238614.png)
+![Ekran Görüntüsü (113)](https://user-images.githubusercontent.com/47148545/144524353-0c209911-b627-4cd3-9e98-ed3384497173.png)
+)
